@@ -1,3 +1,5 @@
+This is not an official Google product (experimental or otherwise), it is just code that happens to be owned by Google.
+
 CNC Microscope is an automated microscope whose stage is built from a
 Shapeoko 1 CNC router platform
 (http://www.shapeoko.com/wiki/index.php/Assembly_overview_(SO1))
